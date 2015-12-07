@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/apple/AndroidStudioProjects/IDPT/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/Users/apple/AndroidStudioProjects/IDPT/app/build/intermediates/pre-dexed/debug/classes-f237c77877ed74a7b4dbd7af7f007e78b05eda80.jar" />
+    </item>
+    <item
+        jar="/Users/apple/AndroidStudioProjects/IDPT/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="/Users/apple/AndroidStudioProjects/IDPT/app/build/intermediates/pre-dexed/debug/classes-e28584bd4780ab0c101a5f9d3d385736d2821405.jar" />
+    </item>
+    <item
+        jar="/Users/apple/AndroidStudioProjects/IDPT/app/build/intermediates/exploded-aar/org.altbeacon/android-beacon-library/2.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c03ce2629e2f87b0643d1e78c0d62fd10edb4f3b">
+        <dex dex="/Users/apple/AndroidStudioProjects/IDPT/app/build/intermediates/pre-dexed/debug/classes-df4b39c8b2a441cfe03860e490a7d3524f656df5.jar" />
+    </item>
+    <item
+        jar="/Users/apple/AndroidStudioProjects/IDPT/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/Users/apple/AndroidStudioProjects/IDPT/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-6321c55db94c67961bf87e40a0eefd742b1df647.jar" />
+    </item>
+    <item
+        jar="/Users/apple/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/Users/apple/AndroidStudioProjects/IDPT/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-b201bc2c383ea2e10b24fc3a5eeb5890c1c9b09e.jar" />
+    </item>
+
+</items>

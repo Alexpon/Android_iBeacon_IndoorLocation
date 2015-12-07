@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/mapback">
+
+    <ImageView
+        android:layout_width="600dp"
+        android:layout_height="300dp"
+        android:id="@+id/map"
+        android:src="@drawable/map"
+        android:layout_alignParentBottom="true"
+        android:layout_below="@+id/focus"
+        android:layout_alignParentEnd="true" />
+
+
+    <ImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/focus"
+        android:src="@drawable/mark" />
+
+
+</RelativeLayout>
